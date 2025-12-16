@@ -1,0 +1,12 @@
+{
+	"name": "LinkService2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=storageaccountbrosejobs;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEVFQzM1NTI0LTY1ODEtNDUxOS1BRjdGLTZFRUQyQTJDNjBDN18wZjVhN2E2Ny0wMGQ2LTQ4MTItYTk2Yy01Y2I0NDg1ZjZjODAiDQp9"
+		}
+	}
+}
